@@ -48,7 +48,7 @@ linkedin_username: william-piat-1202b2b8
 # about_title: About Me
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently a PhD student, making research in the fields of robust statistical learning and sensitivity analysis
+  I am currently a PhD student, making research in the fields of robust statistical learning and sensitivity analysis.
 
 content:
   - title: Education # Title for the section
@@ -122,32 +122,32 @@ content:
         #quote: >
         description: | # this will include new lines to allow paragraphs
           Part time job: data engineer for an Australian Leasing company.
-          Using google cloud platform to automate leasing processes (<mark>Google compute engine, Cloud SQL, App engine</mark>). 
+          Using google cloud platform to automate leasing processes (**Google compute engine, Cloud SQL, App engine**). 
       - layout: left
         title: ShopWings
         sub_title: Process engineer/analyst
         caption:  November 2016 - May 2017
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          6 months internship in <mark>Australia</mark> in a Rocket internet company.
+          6 months internship in **Australia** in a Rocket internet company.
           Automatizing current computer framework and maintenance of the databases of the company (SQL, Python, Git)
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: June 2022
-        sub_title: Submitted journal article
-        #quote: >
-        description: | # this will include new lines to allow paragraphs
-          Regularized Robust Optimization with Application to Robust Learning
-      - layout: left
         title: August 2022
         sub_title: Workshop paper
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          Towards an Evaluation of Lipschitz Constant Estimation Algorithms by building Models with a Known Lipschitz Constant.
-
+          **Towards an Evaluation of Lipschitz Constant Estimation Algorithms by building Models with a Known Lipschitz Constant**.
+      - layout: left
+        title: June 2022
+        sub_title: Submitted journal article
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          **Regularized Robust Optimization with Application to Robust Learning**.
+      
 
   - title: Some Extra
     layout: text
