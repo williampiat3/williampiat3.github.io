@@ -64,7 +64,6 @@ content:
           “CIFRE” PhD (half academic, half industrial PhD) made in collaboration between Normandie Université and Safran.
           The goal was to develop methods for robust training and certifying technological solutions based on deep learning. 
           (Robust optimization, Wassertein distributional robustness, Lipschitz networks, Monte Carlo methods)
-    content:
       - layout: left
         title: Centrale Lyon - Université Lyon 1
         caption: 2017 - 2018
@@ -74,7 +73,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           This double diploma was acheived during my last year of engineer school in Computer Science.
           I followed more practical courses at the university on multi agent systems, evolutionary algorithms, traditional machine learning.
-    content:
       - layout: left
         title: Centrale Lyon
         caption: 2014 - 2017
@@ -83,7 +81,6 @@ content:
           General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
         description: | # this will include new lines to allow paragraphs
           Three years in a top French engineering school. These were dedicated to core courses before the selection of a specialty in last year. 
-    content:
       - layout: left
         title: Louis Le Grand
         caption: 2013 - 2014
@@ -92,7 +89,6 @@ content:
         #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
         description: | # this will include new lines to allow paragraphs
           Second year of "classe préparatoire": focusing on Physics, and Mechanical engineering.
-    content:
       - layout: left
         title: Henri IV
         caption: 2012 - 2013
@@ -101,7 +97,6 @@ content:
         #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
         description: | # this will include new lines to allow paragraphs
           First year of "classe préparatoire": focusing on Physics, and Maths.
-    content:
       - layout: left
         title: Lycée en Forêt
         caption: 2011 - 2012
@@ -124,7 +119,6 @@ content:
           Using state of the art open source technologies (mostly Pytorch, but also Tensorflow) to build predictive models to simulate complex 3D nuclear core physics 
           Performing sensitivity analysis (Sobol indices, Shapley indices) by the mean of metamodeling.
           Develloping evolutionary algorithms (genetic algorithms and genetic programming) to tune complex black box models.
-    content:
       - layout: left
         title: Cocoon Leasing pty
 
@@ -134,7 +128,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           Part time job: data engineer for an Australian Leasing company.
           Using google cloud platform to automate leasing processes (Google compute engine, Cloud SQL, App engine). 
-    content:
       - layout: left
         title: ShopWings
         sub_title: Process engineer/analyst
@@ -144,24 +137,26 @@ content:
           6 months internship in Australia in a Rocket internet company.
           Automatizing current computer framework and maintenance of the databases of the company (SQL, Python, Git)
 
-  # - title: Projects # Title for the section
-  #   layout: list # Type of content section (list/text)
-  #   content:
-  #     - layout: top-middle
-  #       title: Super awesome project
-  #       link: github.com/sproogen
-  #       # link_text: Project Website
-  #       additional_links:
-  #         - title:  sproogen/modern-resume-theme
-  #           icon: fab fa-github
-  #           url: github.com/sproogen/modern-resume-theme
-  #         # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-  #         #   icon: fab fa-github
-  #         #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-  #       quote: >
-  #         This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-  #       description: | # this will include new lines to allow paragraphs
-  #         I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+  - title: Publications # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Regularized Robust Optimization with Application to Robust Learning
+        sub_title: Submitted journal article
+        link: https://hal.archives-ouvertes.fr/hal-03689825
+        link_text: preprint
+        caption: June 2022
+        description: | # this will include new lines to allow paragraphs
+          Presenting a new approach to tackling a distributional robust optimization of non smooth functions.
+      - layout: left
+        title: Towards an Evaluation of Lipschitz Constant Estimation Algorithms by building Models with a Known Lipschitz Constant.
+        sub_title: Submitted workshop paper
+        link: https://hal.archives-ouvertes.fr/hal-03773372
+        link_text: Presented paper
+        caption: August 2022
+        description: | # this will include new lines to allow paragraphs
+          Presenting new approaches for quantifying errors of Lipschitz assessing algorithms.
+
 
   - title: Some Extra
     layout: text
