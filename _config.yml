@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Piat William
-title: PhD student in robustness of Deep Learning
+title: PhD student Deep Learning robustness
 email: william.piat3@gmail.com
 website: www.github.com/williampiat3
 
@@ -49,6 +49,10 @@ linkedin_username: william-piat-1202b2b8
 about_profile_image: images/profile.jpeg
 about_content: | # this will include new lines to allow paragraphs
   I am currently a PhD student, making research in the fields of robust statistical learning and sensitivity analysis.
+  Before this I worked in a lot of different companies with various sizes: start up companies for a more diverse and operational activity and flexible cloud computing environements, big companies with very specific knowledge in neutronics or aeronautics with computation clusters for simulations. 
+  This broad background always gives me ideas for new projects that I love to share on my github.
+  Feel free to contact me over one of my projects or one of my publications, I'll be happy to discuss it!
+
 
 content:
   - title: Education # Title for the section
@@ -140,13 +144,13 @@ content:
         sub_title: Workshop paper
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          **Towards an Evaluation of Lipschitz Constant Estimation Algorithms by building Models with a Known Lipschitz Constant**.
+          **Towards an Evaluation of Lipschitz Constant Estimation Algorithms by building Models with a Known Lipschitz Constant**. Joint work with Frédéric JURIE, Jalal FADILI and Sébastien DA VEIGA. Presents an approach to quantify the error made by Lipschitz assessing algorithms for deep neural nets.
       - layout: left
         title: June 2022
         sub_title: Submitted journal article
         #quote: >
         description: | # this will include new lines to allow paragraphs
-          **Regularized Robust Optimization with Application to Robust Learning**.
+          **Regularized Robust Optimization with Application to Robust Learning**. Joint work with Frédéric JURIE, Jalal FADILI and Sébastien DA VEIGA. Introduce a new approach to tackle Distributional Robust optimization of non-smooth functions with guarantees. Our algorithm combines smoothing with Monte Carlo sampling for and can asymptotically solve the problem.  
       
 
   - title: Some Extra
@@ -154,9 +158,10 @@ content:
     content: | # this will include new lines to allow paragraphs
       When I am not working I like :
       - Every single type of ski (cross country skiing, touring skis, downhill skis).
-      - Tinkering with Raspberry pis, Arduinos.
-      - Running.
-      - Biking, bikes are the future.
+      - Tinkering with Raspberry pis, Arduinos and 3D printing.
+      - Running and mountain biking.
+      - Repairing broken electronics and bikes.
+      - Occasionnaly Kitesurfing
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
