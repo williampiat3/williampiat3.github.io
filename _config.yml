@@ -77,26 +77,21 @@ content:
         title: Centrale Lyon
         caption: 2014 - 2017
         sub_title: General engineering
-        quote: >
-          General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
+        # quote: >
+        #   General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
         description: | # this will include new lines to allow paragraphs
-          Three years in a top French engineering school. These were dedicated to core courses before the selection of a specialty in last year. 
+          Three years in a top French engineering school. These were dedicated to core courses before the selection of a specialty in last year.    
       - layout: left
-        title: Louis Le Grand
-        caption: 2013 - 2014
-        sub_title: PSI*
+        title: Henri IV - Louis Le Grand
+        caption: 2012 - 2014
+        sub_title: MP - PSI*
         #quote: >
         #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
         description: | # this will include new lines to allow paragraphs
-          Second year of "classe préparatoire": focusing on Physics, and Mechanical engineering.
-      - layout: left
-        title: Henri IV
-        caption: 2012 - 2013
-        sub_title: MP
-        #quote: >
-        #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
-        description: | # this will include new lines to allow paragraphs
-          First year of "classe préparatoire": focusing on Physics, and Maths.
+          “Classe préparatoire” Two-year intensive program preparing for the national competitive exam for entry to top French engineering schools.
+          First year: MPSI in Henri IV High School; second year: PSI* in Louis le Grand High School.
+
+
       - layout: left
         title: Lycée en Forêt
         caption: 2011 - 2012
@@ -140,7 +135,7 @@ content:
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
+      - layout: top-middle
         title: Regularized Robust Optimization with Application to Robust Learning
         sub_title: Submitted journal article
         link: https://hal.archives-ouvertes.fr/hal-03689825
@@ -148,7 +143,7 @@ content:
         caption: June 2022
         description: | # this will include new lines to allow paragraphs
           Presenting a new approach to tackling a distributional robust optimization of non smooth functions.
-      - layout: left
+      - layout: top-middle
         title: Towards an Evaluation of Lipschitz Constant Estimation Algorithms by building Models with a Known Lipschitz Constant.
         sub_title: Submitted workshop paper
         link: https://hal.archives-ouvertes.fr/hal-03773372
