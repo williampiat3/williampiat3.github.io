@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: PIAT William
-title: PhD student Deep Learning robustness
+title: PhD student in Deep Learning robustness
 email: william.piat3@gmail.com
 website: www.github.com/williampiat3
 
@@ -162,6 +162,16 @@ content:
       - Running and mountain biking.
       - Repairing broken electronics and bikes.
       - Occasionally Kitesurfing
+  - title: Projects
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      Here is the non exhaustive list of some projects that I worked on that gave me some skills
+      - [Networking and types of VPN to allow seemless streaming of a gaming PC or console](https://github.com/williampiat3/ImprovingPSRemotePlay)
+      - [Upscaling videos with a Wasserstein GAN and making this able to run on a potatoe](https://github.com/williampiat3/Upscale)
+      - [Building genetic algorithms to optimize black box models](https://github.com/williampiat3/GeneticAlgorithm)
+      - [Making a photobooth for my brother's wedding](https://github.com/williampiat3/photoBoothQ)
+      - Using greedy algorithms on graph to optimize medical plannings
+      
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
