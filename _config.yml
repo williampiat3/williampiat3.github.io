@@ -7,11 +7,7 @@ version: 2
 
 # Personal info
 name: PIAT William
-<<<<<<< HEAD
-title: PhD student in Deep Learning robustness
-=======
 title: PhD student in robust statistical learning
->>>>>>> 6c2c3f42799a95e8effacc828a5e5dae953ae3ed
 email: william.piat3@gmail.com
 website: www.github.com/williampiat3
 
