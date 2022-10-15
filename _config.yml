@@ -104,6 +104,15 @@ content:
         #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
         description: | # this will include new lines to allow paragraphs
           Baccalauréat (equivalent to A-levels) in science and maths with honours.
+
+  - title: Skills
+    layout: text
+    content: | #test
+      * Languages: English (Fluent), French (Native), German (Conversational), Spanish (Conversational)
+      * **Statistics**: Robust optimization, Gradient methods, Gaussian processes, Markov Decision Processes, Monte Carlo methods, Uncertainty quantification, Optimal Transport.
+      * **Programming**: C++, SQL, Python, R, Git, Docker
+      * **Deep learning**: Pytorch (Proeficient: 6 years experience), Distributed trainings over multiple nodes of a cluster scheduled with slurm ecosystem.
+
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
