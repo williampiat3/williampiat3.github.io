@@ -108,8 +108,8 @@ content:
   - title: Skills
     layout: text
     content: | #test
-      * Languages: English (Fluent), French (Native), German (Conversational), Spanish (Conversational)
-      * **Statistics**: Robust optimization, Gradient methods, Gaussian processes, Markov Decision Processes, Monte Carlo methods, Uncertainty quantification, Optimal Transport.
+      * **Languages**: English (Fluent), French (Native), German (Conversational), Spanish (Conversational)
+      * **Statistics**: Robust optimization, Gradient methods, Gaussian processes, Markov Decision Processes, Monte Carlo methods, Uncertainty quantification, Optimal Transport, Graph Theory.
       * **Programming**: C++, SQL, Python, R, Git, Docker
       * **Deep learning**: Pytorch (Proeficient: 6 years experience), Distributed trainings over multiple nodes of a cluster scheduled with slurm ecosystem.
 
