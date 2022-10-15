@@ -46,7 +46,7 @@ linkedin_username: william-piat-1202b2b8
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpeg
+about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
   I am currently a PhD student, making research in the fields of robust statistical learning and sensitivity analysis.
   Before this I worked in a lot of different companies with various sizes: start up companies for a more diverse and operational activity and flexible cloud computing environements, big companies with very specific knowledge in neutronics or aeronautics with computation clusters for simulations. 
