@@ -152,16 +152,6 @@ content:
         description: | # this will include new lines to allow paragraphs
           **Regularized Robust Optimization with Application to Robust Learning**. Joint work with Frédéric JURIE, Jalal FADILI and Sébastien DA VEIGA. Introduce a new approach to tackle Distributional Robust optimization of non-smooth functions with guarantees. Our algorithm combines smoothing with Monte Carlo sampling for and can asymptotically solve the problem.  
       
-
-  - title: Some Extra
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      When I am not working I like :
-      - Every single type of ski (cross country skiing, touring skis, downhill skis).
-      - Tinkering with Raspberry pis, Arduinos and 3D printing.
-      - Running and mountain biking.
-      - Repairing broken electronics and bikes.
-      - Occasionally Kitesurfing
   - title: Projects
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -173,6 +163,16 @@ content:
       - Using greedy algorithms on graph to optimize medical plannings
       - Coding an app for [sending easily Spotify musics](https://playlistsender.herokuapp.com/) to friends and to [receive them](https://playlistreceiver.herokuapp.com/)
       - [Using basical knowledge of deep reinforcement learning to minimize wait time of elevator users](https://github.com/williampiat3/Reinforcement)
+  - title: Some Extra
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      When I am not working I like :
+      - Every single type of ski (cross country skiing, touring skis, downhill skis).
+      - Tinkering with Raspberry pis, Arduinos and 3D printing.
+      - Running and mountain biking.
+      - Repairing broken electronics and bikes.
+      - Occasionally Kitesurfing
+  
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
