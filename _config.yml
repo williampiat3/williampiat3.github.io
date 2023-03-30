@@ -55,64 +55,6 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Normandie Université - Safran
-        caption: 2020 - 2023
-        sub_title: PhD in Statistics and Computer science
-        #quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-          “CIFRE” PhD (half academic, half industrial PhD) made in collaboration between Normandie Université and Safran.
-          The goal was to develop methods for robust training and certifying technological solutions based on deep learning. 
-          (Robust optimization, Wassertein distributional robustness, Lipschitz networks, Monte Carlo methods)
-      - layout: left
-        title: Centrale Lyon - Université Lyon 1
-        caption: 2017 - 2018
-        sub_title: Double diploma, Engineering diploma and Master degree
-        #quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-          This double diploma was acheived during my last year of engineer school in Computer Science.
-          I followed more practical courses at the university on multi agent systems, evolutionary algorithms, traditional machine learning.
-      - layout: left
-        title: Centrale Lyon
-        caption: 2014 - 2017
-        sub_title: General engineering
-        # quote: >
-        #   General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
-        description: | # this will include new lines to allow paragraphs
-          Three years in a top French engineering school. These were dedicated to core courses before the selection of a specialty in last year.    
-      - layout: left
-        title: Henri IV - Louis Le Grand
-        caption: 2012 - 2014
-        sub_title: MP - PSI*
-        #quote: >
-        #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
-        description: | # this will include new lines to allow paragraphs
-          “Classe préparatoire” Two-year intensive program preparing for the national competitive exam for entry to top French engineering schools.
-          First year: MPSI in Henri IV High School; second year: PSI* in Louis le Grand High School.
-
-
-      - layout: left
-        title: Lycée en Forêt
-        caption: 2011 - 2012
-        #sub_title: 
-        #quote: >
-        #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
-        description: | # this will include new lines to allow paragraphs
-          Baccalauréat (equivalent to A-levels) in science and maths with honours.
-
-  - title: Skills
-    layout: text
-    content: | #test
-      * **Languages**: English (Fluent), French (Native), German (Conversational), Spanish (Conversational)
-      * **Statistics**: Robust optimization, Gradient methods, Gaussian processes, Markov Decision Processes, Monte Carlo methods, Uncertainty quantification, Optimal Transport, Graph Theory.
-      * **Programming**: C++, SQL, Python, R, Git, Docker
-      * **Deep learning**: Pytorch (Proeficient: 6 years experience), Distributed trainings over multiple nodes of a cluster scheduled with slurm ecosystem.
-
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -155,6 +97,66 @@ content:
         description: | # this will include new lines to allow paragraphs
           6 months internship in **Australia** in a Rocket internet company.
           Automatizing current computer framework and maintenance of the databases of the company (SQL, Python, Git)
+          
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Normandie Université - Safran
+        caption: 2020 - 2023
+        sub_title: PhD in Statistics and Computer science
+        #quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          “CIFRE” PhD (half academic, half industrial PhD) made in collaboration between Normandie Université and Safran.
+          The goal was to develop methods for robust training and certifying technological solutions based on deep learning. 
+          (Robust optimization, Wassertein distributional robustness, Lipschitz networks, Monte Carlo methods)
+      - layout: left
+        title: Centrale Lyon - Université Lyon 1
+        caption: 2017 - 2018
+        sub_title: Double diploma, Engineering diploma and Master degree
+        #quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          This double diploma was acheived during my last year of engineer school in Computer Science.
+          I followed more practical courses at the university on multi agent systems, evolutionary algorithms, traditional machine learning.
+      - layout: left
+        title: Centrale Lyon
+        caption: 2014 - 2017
+        sub_title: General engineering
+        # quote: >
+        #   General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
+        description: | # this will include new lines to allow paragraphs
+          Three years in a top French engineering school. These were dedicated to core courses before the selection of a specialty in last year.    
+      - layout: left
+        title: Henri IV - Louis Le Grand
+        caption: 2012 - 2014
+        sub_title: MPSI - PSI*
+        #quote: >
+        #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
+        description: | # this will include new lines to allow paragraphs
+          “Classe préparatoire” Two-year intensive program preparing for the national competitive exam for entry to top French engineering schools.
+          First year: MPSI in Henri IV High School; second year: PSI* in Louis le Grand High School.
+
+
+      - layout: left
+        title: Lycée en Forêt
+        caption: 2011 - 2012
+        #sub_title: 
+        #quote: >
+        #  General engineering is a very French concept where is taught a bit of everything, or as some critics might say: a bit of nothing.
+        description: | # this will include new lines to allow paragraphs
+          Baccalauréat (equivalent to A-levels) in science and maths with honours.
+
+  - title: Skills
+    layout: text
+    content: | #test
+      * **Languages**: English (Fluent), French (Native), German (Conversational), Spanish (Conversational)
+      * **Statistics**: Robust optimization, Gradient methods, Gaussian processes, Markov Decision Processes, Monte Carlo methods, Uncertainty quantification, Optimal Transport, Graph Theory.
+      * **Programming**: C++, SQL, Python, R, Git, Docker
+      * **Deep learning**: Pytorch (Proeficient: 6 years experience), Distributed trainings over multiple nodes of a cluster scheduled with slurm ecosystem.
+
+  
 
   - title: Publications # Title for the section
     layout: list # Type of content section (list/text)
