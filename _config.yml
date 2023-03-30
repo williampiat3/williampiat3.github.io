@@ -117,6 +117,17 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: Safran
+        link: https://www.safran-group.com/fr
+        link_text: safran-group.com
+        sub_title: Research engineer in applied AI and UQ for physics
+        caption: 2023 - now
+        #quote: >
+        description: | # this will include new lines to allow paragraphs
+          Develloping algorithms and methodologies to improve and/or accelerating physical simulations in order to optimize and speed up the design and conception of aircraft components.
+          Using targeted exploration of design of experiments to optimize efficiently parameters in the context of computationnaly demanding codes.
+          Performing optimization under uncertainty in order to take into account various sources of perturbation in manufacturing processes.
+      - layout: left
         title: Framatome
         link: https://www.framatome.com
         link_text: framatome.com
